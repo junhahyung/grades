@@ -1,2 +1,3 @@
-# grades
-grades for CV and resume(2020.02)
+# CV and grades
+- CV (2020.06)
+- grades
